@@ -1,0 +1,2 @@
+# note_RSS
+seleniumとPhantomJSでnote.muのRSSフィードを作成する
